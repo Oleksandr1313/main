@@ -1,4 +1,4 @@
-from tutrle import *
+from turtle import *
 
 def pictogram(colors):
     bgcolor('black')
